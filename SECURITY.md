@@ -15,13 +15,13 @@
 ғɪʀsᴛ ᴏғ ᴀʟʟ ɪɴғᴏʀᴍ ᴛʜᴇ ᴏʀɪɢɪɴᴀʟ ᴄʀᴇᴀᴛᴏʀ ᴏғ ᴛʜᴇ ᴘᴀᴄᴋᴀɢᴇ ғʀᴏᴍ PyPi
 ᴀɴᴅ ᴛʜᴇɴ ᴍᴀᴋᴇ ᴀ ɪssᴜᴇ ɪɴ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ.
 
-## ᴄʀᴇᴅɪᴛ ꜰᴏʀ ᴀʟᴏɴᴇ ʀᴏʙᴏᴛ
+## 𝗖𝗥𝗘𝗗𝗜𝗧 𝗙𝗢𝗥 𝗟𝗢𝗙𝗜 𝗥𝗢𝗕𝗢𝗧 
 - [ɢɪᴛʜᴜʙ](https://github.com/TeamAloneOp)
-- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/ALONE_WAS_BOT)
-- [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/AlonesHeaven)
+- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/OVER_POWEREDD)
+- [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/Fun_Here)
 
 ## ɪɴғᴏ 
-*ᴛʜɪs ɪs ᴀʟᴏɴᴇ ʀᴏʙᴏᴛ ,ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
+*ᴛʜɪs ɪs LOFI ROBOT ,ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
 
 ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon), 
 [ᴩʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram), 
@@ -33,4 +33,4 @@
 
 ᴀʟᴏɴᴇ ʀᴏʙᴏᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/TeamAloneOp/AloneXRobot/blob/master/LICENSE).
 
-© 2022 - 2023 [@ᴀʟᴏɴᴇsʜᴇᴀᴠᴇɴ](https://t.me/AlonesHeaven), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ
+© 2022 - 2023 [@OP_SHIVA_007](https://t.me/OP_SHIVA_007), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ
