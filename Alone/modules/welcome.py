@@ -23,8 +23,8 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @ALONE_WAS_BOT
-#     UPDATE   :- AloneXBots
+# TG :- @OP_SHIVA_007
+#     UPDATE   :- OVER_POWEREDD
 #     GITHUB :- TEAMALONEOP ""
 import html
 import random
