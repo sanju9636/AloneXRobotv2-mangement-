@@ -14,9 +14,9 @@ class Config(object):
     STRING_SESSION = getenv("STRING_SESSION", None)
     SPAMWATCH_API = None
     TOKEN = getenv("TOKEN", None)
-    OWNER_ID = int(getenv("OWNER_ID", "6079943111"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
-    OWNER_USERNAME = getenv("OWNER_USERNAME", "ALONE_WAS_BOT")
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "AlonesHeaven")
+    OWNER_ID = int(getenv("OWNER_ID", "6204193689"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
+    OWNER_USERNAME = getenv("OWNER_USERNAME", "OP_SHIVA_007)
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "OVER_POWEREDD")
     LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001603822916"))
     MONGO_URI = getenv("MONGO_DB_URI")
     REDIS_URL = "redis://default:wK6ZCiclq4iQKYpgfY90v6kd6WdPfEwl@redis-10186.c263.us-east-1-2.ec2.cloud.redislabs.com:10186/default"
